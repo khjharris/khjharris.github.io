@@ -1,4 +1,4 @@
-## Website Coming Soon!
+# Website Coming Soon!
 
 Thank you for your patience.
 
