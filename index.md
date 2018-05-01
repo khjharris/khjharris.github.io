@@ -1,6 +1,4 @@
-### Website Coming Soon!
+Shift 2-5 Live Stats:
 
-Thank you for your patience.
-
-MOM COUNT = 11
+# MOM COUNT = 11
 
