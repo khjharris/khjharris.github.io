@@ -1,8 +1,3 @@
-## May 1:
+# SITE COMING SOON!
 
-# MOM COUNT = 13
-
-# CONGRATS TO THE FATHERS, WE HAVE NOW ADDED A DAD COUNT!!!
-
-# DAD COUNT = 2
-
+### Thank you for visiting!
